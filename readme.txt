@@ -4,3 +4,4 @@ haha
 papapa
 create by master branch & 'feature1'
 This is a bug[bug fixed]
+my logic code
