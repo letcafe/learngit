@@ -3,4 +3,4 @@ git is a free software under GPL
 haha
 papapa
 create by master branch & 'feature1'
-This is a bug
+This is a bug[bug fixed]
